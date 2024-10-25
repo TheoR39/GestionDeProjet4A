@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Texte au hasard...encore et encore des lignes
-=======
 Texte au hasard...
 
 nouvelle ligne
->>>>>>> de360e7772a1d365231091bb042aaadb761d2098
