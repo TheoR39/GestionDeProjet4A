@@ -1,8 +1,5 @@
 New line 1 
-<<<<<<< HEAD
 NEw line 2
 New line 3
-=======
-New line 3
 New line 4
->>>>>>> ccf9ada2de1f3bfe82a5b6c95221b515959e34d3
+New line 5
