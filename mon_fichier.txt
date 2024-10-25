@@ -1,8 +1,8 @@
-<<<<<<< HEAD
 Texte au hasard...encore et encore des lignes
-=======
 Texte au hasard...
+Nouvelle ligne
 
 nouvelle ligne
->>>>>>> de360e7772a1d365231091bb042aaadb761d2098
 encore une nouvelle lign
+
+Encore une nouvelle ligne 8.3
